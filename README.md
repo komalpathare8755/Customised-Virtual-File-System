@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Komal Pathare </h1>
-<h3 align="center">Customized Virtual File System</h3>
+<h1 align="center">Customized Virtual File System </h1>
 
 <p><strong>Technology:</strong> C or C++ Programming</p>
 
