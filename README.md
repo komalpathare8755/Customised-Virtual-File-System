@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Komal Pathare </h1>
-<h3 align="center">Customised Virtual File System : Technology : C Programming
-Description :
-  • This project provides all functionality to the user which is same as Linux File system.
-  • It provides necessary commands, system calls implementations of file system through customised shell. 
-  • In this project we implement all necessary data structures of file system like Incore Inode Table, File Table, UAREA, User File Descriptor table.
-  • Using this project we can use every system level functionality of Linux operating system on any other operating system platform. 
-  • We provide our own customised shell to interact with the customised database management system.
-</h3>
+<h3 align="center">Customized Virtual File System</h3>
+
+<p><strong>Technology:</strong> C Programming</p>
+
+<p><strong>Description:</strong></p>
+<ul>
+  <li>This project replicates the functionality of a Linux File System.</li>
+  <li>It provides essential commands and system call implementations via a custom shell.</li>
+  <li>Key data structures such as the Incore Inode Table, File Table, UAREA, and User File Descriptor Table are implemented.</li>
+  <li>With this system, users can perform Linux OS-level operations on other platforms.</li>
+  <li>The project includes a customized shell for interaction with the system's database management functionality.</li>
+</ul>
+
 
 
 
